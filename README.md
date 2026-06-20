@@ -152,7 +152,7 @@ This project is licensed under the MIT License — see the [LICENSE] file for de
 **Anushka Gandhi**
 AI & Data Science | IIT Madras (BS) + MMCOE | Chief Engineering Officer, NeuraCryption
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin-url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anushka-gandhi-679516212?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/anushkagandhi503)
 
 ---
