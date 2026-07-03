@@ -1,0 +1,131 @@
+sentence,category,severity,annotator_confidence,notes
+We need a rockstar developer who can hit the ground running.,gender_coded,2,high,clear keyword match
+Looking for digital natives who are comfortable with new tech.,age_coded,2,high,
+Must be physically fit with no health issues to apply.,ability_coded,3,high,
+"We want someone who fits our young, energetic culture.",age_coded,2,high,"paraphrase, no exact keyword"
+"Looking for a dominant, aggressive sales leader to close deals.",gender_coded,2,high,
+This unpaid internship is great exposure for the right candidate.,socioeconomic_exclusion,3,high,
+Must be a native English speaker with no accent.,cultural_exclusion,3,high,
+We are an equal opportunity employer committed to diversity.,none,1,high,explicitly neutral
+5+ years of experience in Python and SQL required.,none,1,high,"neutral, skill-based"
+Candidate should be comfortable working in a fast-paced environment.,none,1,medium,"borderline, could imply long hours but not explicitly"
+Must be willing to work long hours without complaint.,ability_coded,3,high,
+We're looking for someone who can multitask under constant pressure.,ability_coded,2,medium,
+Recent graduates are strongly preferred for this entry-level role.,age_coded,2,high,
+Candidate must own a reliable car and personal laptop.,socioeconomic_exclusion,2,high,
+We value work-hard-play-hard culture and after-hours team bonding.,cultural_exclusion,2,medium,
+Looking for a guru who can single-handedly own our backend systems.,gender_coded,1,medium,"gendered connotation, debatable severity"
+Strong communication skills and a collaborative mindset required.,none,1,high,neutral
+Must be able to lift 50 lbs unaided on a regular basis.,ability_coded,2,medium,"legitimate if physically required role, flag for review"
+Looking for someone from a top-tier college only.,socioeconomic_exclusion,2,high,
+He will manage a team of five engineers.,gender_coded,1,medium,gendered pronoun usage
+"This role requires standing for extended periods, no exceptions.",ability_coded,2,medium,
+We need fresh blood to energize our marketing team.,age_coded,2,high,
+Salary is competitive and based on experience.,none,1,high,neutral
+Candidate should share our traditional family values.,cultural_exclusion,3,high,
+Looking for a ninja who can juggle multiple projects at once.,gender_coded,1,medium,
+Remote work available; flexible hours offered.,none,1,high,"neutral, inclusive signal"
+This is an ideal role for someone early in their career.,age_coded,1,medium,"borderline, common in genuinely entry-level roles"
+Must have perfect vision and hearing for this position.,ability_coded,3,high,
+We're seeking a go-getter with a killer instinct for sales.,gender_coded,2,medium,
+"All qualified applicants will receive consideration without regard to race, gender, or age.",none,1,high,"explicitly neutral, EEO statement"
+We need a guy who can handle our demanding clients.,gender_coded,2,high,
+Looking for a self-starter who can man the front desk.,gender_coded,2,high,man used as verb
+Seeking a fearless hunter for our sales team.,gender_coded,2,medium,
+The ideal candidate is a born leader who commands respect.,gender_coded,2,medium,
+Must be willing to fight for every deal and never back down.,gender_coded,2,medium,
+We need a sharp shooter who hits targets every quarter.,gender_coded,1,medium,
+Looking for a thought leader and industry evangelist.,gender_coded,1,low,borderline
+She will oversee the entire marketing department.,gender_coded,1,medium,gendered pronoun
+Manpower planning experience is a plus.,gender_coded,1,high,
+Must be a strong individual contributor who owns outcomes.,gender_coded,1,low,"borderline, debatable"
+We want a warrior mentality in our next sales hire.,gender_coded,2,high,
+Seeking a gun-slinger who thrives in high-pressure deals.,gender_coded,2,medium,
+The chosen candidate will be a champion of our brand.,gender_coded,1,low,borderline
+We are looking for a visionary and bold decision-maker.,gender_coded,1,low,borderline
+"Must be assertive, dominant, and unafraid of confrontation.",gender_coded,3,high,
+We need someone with a killer drive and relentless ambition.,gender_coded,2,medium,
+Looking for a male candidate comfortable with night shifts.,gender_coded,3,high,explicitly gendered
+Must be a hustler who grinds 24/7 with no excuses.,gender_coded,2,medium,
+Seeking a sensei who can mentor our junior devs.,gender_coded,1,low,borderline
+We value bro-culture and a high-energy locker-room environment.,gender_coded,3,high,
+Candidates over 45 need not apply.,age_coded,3,high,explicit age discrimination
+Looking for someone with no more than 3 years of experience.,age_coded,2,medium,experience cap can signal age preference
+"We want young, ambitious minds who think outside the box.",age_coded,2,high,
+Must be a millennial who understands modern consumer trends.,age_coded,2,high,
+Ideal for someone who just completed their degree.,age_coded,1,medium,borderline
+Looking for a Gen Z mindset with fresh ideas.,age_coded,2,high,
+We prefer candidates who are at an early stage of their career.,age_coded,2,high,
+Must have the energy and drive of someone starting out.,age_coded,2,medium,
+This role suits someone hungry and just starting to make their mark.,age_coded,2,medium,
+We value freshness of thought over decades of experience.,age_coded,2,medium,
+Retirement-age candidates are unlikely to be considered.,age_coded,3,high,
+This fast-paced startup suits candidates early in their journey.,age_coded,1,medium,borderline
+Looking for someone who grew up with social media and smartphones.,age_coded,2,high,
+We need someone who can grow with us for the next 30 years.,age_coded,1,low,"borderline, could imply age"
+The ideal hire is someone not yet set in their ways.,age_coded,2,medium,
+Must have the enthusiasm and curiosity typical of new graduates.,age_coded,2,high,
+Experience of 0-2 years preferred; seasoned professionals may find this role limiting.,age_coded,2,high,
+Looking for a young go-getter with something to prove.,age_coded,2,high,
+Candidate should be unencumbered by old-school thinking.,age_coded,2,medium,
+This position is designed as a launchpad for those just beginning.,age_coded,1,medium,borderline
+Must be able to work under high stress without performance impact.,ability_coded,2,medium,
+Candidates with gaps in employment history will not be considered.,ability_coded,2,medium,can exclude those with health/disability-related gaps
+Should be available 24/7 including weekends with no exceptions.,ability_coded,3,high,
+Must have full mobility and ability to travel on short notice.,ability_coded,2,medium,
+Needs to handle high cognitive load for extended hours daily.,ability_coded,2,medium,
+"Must be able to stand, walk, and carry equipment throughout the shift.",ability_coded,2,medium,flag for review if not physically required
+No health-related absenteeism is acceptable in this role.,ability_coded,3,high,
+Should be able to sprint between meetings across a large campus.,ability_coded,1,low,borderline
+Requires near-perfect memory and recall under deadline pressure.,ability_coded,2,medium,
+"Must be available to travel internationally at 48 hours notice, no exceptions.",ability_coded,2,medium,
+Full-time on-site presence required; no medical accommodations available.,ability_coded,3,high,
+Should function at peak performance regardless of personal circumstances.,ability_coded,2,medium,
+Must be able to drive; a valid license is non-negotiable.,ability_coded,1,medium,"borderline, legitimate if role genuinely requires it"
+The role demands someone who never needs to slow down.,ability_coded,2,medium,
+Candidates with chronic health conditions may struggle in this environment.,ability_coded,3,high,
+Must be comfortable with our beer-and-pizza startup culture.,cultural_exclusion,2,high,
+Looking for someone who celebrates wins the way our team does.,cultural_exclusion,1,low,borderline
+Ideal candidate celebrates Christmas and major Western holidays.,cultural_exclusion,3,high,
+We are a tight-knit Western-style team; cultural alignment is key.,cultural_exclusion,3,high,
+Must be comfortable in a predominantly male environment.,cultural_exclusion,3,high,
+Fluent English with no regional accent required.,cultural_exclusion,3,high,
+Must share our founders' vision of a Westernized global company.,cultural_exclusion,2,medium,
+Looking for someone who thrives in an informal frat-style office culture.,cultural_exclusion,3,high,
+We value Sunday availability for team outings and bonding events.,cultural_exclusion,2,medium,Sunday is a religious day for many
+Candidate should be comfortable with casual profanity in the workplace.,cultural_exclusion,2,medium,
+Candidates who attended IIT or IIM only need apply.,socioeconomic_exclusion,2,high,
+Must be willing to work for equity only in the first year.,socioeconomic_exclusion,3,high,
+Should have access to a high-speed personal internet connection.,socioeconomic_exclusion,1,medium,borderline for remote roles
+This unpaid trial period lasts 3 months before a salary is offered.,socioeconomic_exclusion,3,high,
+Candidates from premium MBA programs preferred.,socioeconomic_exclusion,2,high,
+Must be financially stable enough to wait 60 days for first paycheck.,socioeconomic_exclusion,3,high,
+Looking for someone from a well-connected background in the industry.,socioeconomic_exclusion,2,medium,
+Must own a high-performance laptop and noise-cancelling headphones.,socioeconomic_exclusion,2,medium,
+Experience at a Big 4 or Fortune 500 company is mandatory.,socioeconomic_exclusion,2,medium,borderline but systematically excludes many
+Candidates should be comfortable with delayed compensation during growth phase.,socioeconomic_exclusion,2,high,
+We offer flexible work-from-home options to suit all lifestyles.,none,1,high,
+"Proficiency in Python, R, and SQL is required.",none,1,high,
+The role offers a competitive salary and annual performance bonus.,none,1,high,
+We welcome applications from all qualified candidates.,none,1,high,
+Experience with Agile or Scrum methodologies is preferred.,none,1,high,
+This is a full-time remote position with flexible hours.,none,1,high,
+"We provide full medical, dental, and vision coverage from day one.",none,1,high,explicitly inclusive benefit
+3-5 years of experience in a data engineering role is required.,none,1,high,
+Candidates must have a bachelor's degree in computer science or equivalent.,none,1,high,
+We are committed to making reasonable accommodations for all employees.,none,1,high,explicitly inclusive
+The successful candidate will join a globally distributed team.,none,1,high,
+Strong written and verbal communication skills in English are required.,none,1,medium,borderline but standard professional requirement
+Must be proficient in Microsoft Office and Google Workspace.,none,1,high,
+This role involves occasional travel (up to 20% of the time).,none,1,high,
+We value diverse perspectives and encourage applications from underrepresented groups.,none,1,high,positive DEI statement
+Candidates must be legally authorized to work in India.,none,1,high,"legal requirement, not bias"
+The role requires managing a cross-functional team of 8-10 people.,none,1,high,
+Prior startup experience is a plus but not required.,none,1,high,
+We believe in work-life balance and offer 25 days of paid leave annually.,none,1,high,
+Excellent problem-solving skills and attention to detail are essential.,none,1,high,
+The candidate will report directly to the VP of Engineering.,none,1,high,
+We review all applications and respond within 5 business days.,none,1,high,
+Industry certifications such as AWS or GCP are advantageous.,none,1,high,
+We offer parental leave for all parents regardless of gender.,none,1,high,explicitly inclusive
+This role is open to candidates with equivalent work experience in lieu of a degree.,none,1,high,"inclusive, degree not mandatory"
