@@ -25,7 +25,7 @@ from sentence_transformers import SentenceTransformer, util
 from exemplars import EXEMPLARS, CATEGORY_LABELS, REWRITE_SUGGESTIONS
 
 AUDIT_LOG_PATH = "scan_audit_log.jsonl"
-SEMANTIC_THRESHOLD = 0.55  # starting point — tune once benchmark data exists
+SEMANTIC_THRESHOLD = 0.65  # starting point — tune once benchmark data exists
 
 # ---------------------------------------------------------------------------
 # Layer 1: Rule-based detection
